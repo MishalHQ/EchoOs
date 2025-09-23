@@ -1,0 +1,41 @@
+{
+  "open": [
+    "open",
+    "launch",
+    "start"
+  ],
+  "open_website": [
+    "open website",
+    "open site",
+    "go to"
+  ],
+  "search_product": [
+    "search product",
+    "find on amazon",
+    "search on amazon",
+    "search on swiggy",
+    "order on swiggy"
+  ],
+  "send_whatsapp": [
+    "send whatsapp",
+    "whatsapp"
+  ],
+  "send_mail": [
+    "send mail",
+    "send email",
+    "email"
+  ],
+  "stop_listening": [
+    "stop",
+    "sleep",
+    "go to sleep",
+    "stop listening",
+    "pause"
+  ],
+  "wake_up": [
+    "wake up",
+    "start listening",
+    "resume",
+    "start"
+  ]
+}

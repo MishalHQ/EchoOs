@@ -1,0 +1,37 @@
+# Core GUI Framework
+PySide6
+
+# Speech Recognition and TTS
+vosk
+sounddevice
+pyttsx3
+
+# Voice Processing and Authentication
+python_speech_features
+resemblyzer
+librosa
+
+# Scientific Computing
+numpy
+scipy
+scikit-learn
+
+# Text Processing and Matching
+rapidfuzz
+
+# System Information and Control
+psutil
+
+# Platform-specific Dependencies
+pywin32; platform_system == "Windows"
+
+# Optional Dependencies for Full Functionality
+# Uncomment these for complete accessibility features:
+# pyautogui
+# opencv-python
+# pytesseract
+# Pillow
+# pygetwindow
+
+# Note: pathlib is part of Python standard library (3.4+)
+# Note: threading, queue, logging, datetime are standard library modules
