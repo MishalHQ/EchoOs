@@ -1,2 +1,2 @@
 # EchoOs
-hands free pc automation using voice
+EchoOS is an offline, voice-controlled operating system interface designed to provide secure and hands-free system automation. Unlike cloud-based voice assistants, EchoOS performs all speech recognition and authentication locally, ensuring privacy and usability even without internet connectivity. The system integrates voice biometric authentication with OS-level command execution, making it suitable for accessibility use cases, secure environments, and shared systems requiring controlled access.
